@@ -5,8 +5,6 @@ It contains the following:
   . It contains a class called New_System() which stores the trajectory information, and has access to several methods for analysis and transformations.
   . The program is currently limited for flat and cylindrical surfaces and with many specific code that can be generalized
 
-- Analysis_Gases:
-  . Notebook with partial analysis of results from simulations of intrusion-extrusion cycles of water diluted with different gases in silane-grafted nanopores.
+- Analysis_Gases: Notebook with partial analysis of results from simulations of intrusion-extrusion cycles of water diluted with different gases in silane-grafted nanopores.
 
-- Analysis_PDMS:
-  .Notebook with partial analysis of results from simulations of polydisperse and monodisperse PDMS-grafted surfaces.
+- Analysis_PDMS: Notebook with partial analysis of results from simulations of polydisperse and monodisperse PDMS-grafted surfaces.
