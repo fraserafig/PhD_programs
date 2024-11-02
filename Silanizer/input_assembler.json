@@ -1,0 +1,30 @@
+{
+    "folder": "/scratch/project_465000467/FABIO/PDMS/Polydisperse/K5/1.0/run3/water/min",
+    "blocks": [
+        "start.gro",
+        "WALL.gro"
+    ],
+    "positions": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            80200.0
+        ]
+    ],
+    "box dimensions": [
+        501.1793212890625,
+        98.99020385742188,
+        80500.0,
+        90,
+        90,
+        90
+    ],
+    "transforms": false,
+    "name": "K5",
+    "out name": "assembled.gro"
+}

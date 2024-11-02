@@ -1,0 +1,48 @@
+{
+    "folder": "/scratch/project_465000467/FABIO/PDMS/Polydisperse/K5/0.3/run4/vacuum/min",
+    "surface_distance": 0.6,
+    "grafting_density": 0.3,
+    "perturbation": 0,
+    "name": "K5",
+    "matrix": {
+        "file": false,
+        "size": [
+            80,
+            80,
+            9
+        ]
+    },
+    "grafting method": {
+        "to": false,
+        "from": true
+    },
+    "chain dispersity": {
+        "monodisperse": false,
+        "polydisperse": [
+            1.35,
+            308
+        ]
+    },
+    "atom names": {
+        "polymer": [
+            "PDMS",
+            "DMS"
+        ],
+        "bulk": [
+            "BULK",
+            "N1B"
+        ],
+        "layer": [
+            "LAY",
+            "N1L"
+        ],
+        "under_polymer": [
+            "PDMS",
+            "N1L1"
+        ]
+    },
+    "surface geometry": {
+        "cylindrical": false,
+        "flat": true
+    }
+}
